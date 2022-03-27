@@ -1,0 +1,1 @@
+{"version":3,"file":"articles.ref.svelte-7a8deef6.js","sources":["../../res/articles.ref.svelte.ts"],"sourcesContent":["const articleRefs = [\n    [\n        \"리더가 프로젝트를 망치는 방법\",\n        import('@article/view/post/20220117/20220117.svelte')\n    ]\n];\nexport default articleRefs;\n"],"names":["articleRefs","import"],"mappings":"AAAK,MAACA,EAAc,CAChB,CACI,mBACAC,OAAO"}
