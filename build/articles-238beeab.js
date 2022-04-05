@@ -1,2 +1,2 @@
 const t=[{title:"리더가 프로젝트를 망치는 방법",description:"의도하던 의도하지 않았던 우리는 프로젝트가 산으로 가는 경험은 누구나 한 번 씩 겪어봤을 일이다.",published:20220117,tags:["생각","Web","svelte"]},{title:"팀을 와해하는 커뮤니케이션 비법",description:"아티클 2 서브타이틀",published:20211214,tags:["생각","회사","Android"]},{title:"개발자를 동작하게 하는 법",description:"아티클 3 서브타이틀",published:20210203,tags:["iOS"]}];export{t as default};
-//# sourceMappingURL=articles-944e9ba8.js.map
+//# sourceMappingURL=articles-238beeab.js.map
